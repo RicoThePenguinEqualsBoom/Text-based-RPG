@@ -1,0 +1,13 @@
+C:\Users\BaGa\source\repos\SuperAdventure\bin\Debug\SuperAdventure.exe.config
+C:\Users\BaGa\source\repos\SuperAdventure\bin\Debug\SuperAdventure.exe
+C:\Users\BaGa\source\repos\SuperAdventure\bin\Debug\SuperAdventure.pdb
+C:\Users\BaGa\source\repos\SuperAdventure\bin\Debug\ClassLibraryAdventure.dll
+C:\Users\BaGa\source\repos\SuperAdventure\bin\Debug\ClassLibraryAdventure.pdb
+C:\Users\BaGa\source\repos\SuperAdventure\obj\Debug\SuperAdventure.csproj.AssemblyReference.cache
+C:\Users\BaGa\source\repos\SuperAdventure\obj\Debug\SuperAdventure.Properties.Resources.resources
+C:\Users\BaGa\source\repos\SuperAdventure\obj\Debug\SuperAdventure.csproj.GenerateResource.cache
+C:\Users\BaGa\source\repos\SuperAdventure\obj\Debug\SuperAdventure.csproj.CoreCompileInputs.cache
+C:\Users\BaGa\source\repos\SuperAdventure\obj\Debug\SuperAdv.5A2A7CD7.Up2Date
+C:\Users\BaGa\source\repos\SuperAdventure\obj\Debug\SuperAdventure.exe
+C:\Users\BaGa\source\repos\SuperAdventure\obj\Debug\SuperAdventure.pdb
+C:\Users\BaGa\source\repos\SuperAdventure\obj\Debug\SuperAdventure.SuperAdventure.resources

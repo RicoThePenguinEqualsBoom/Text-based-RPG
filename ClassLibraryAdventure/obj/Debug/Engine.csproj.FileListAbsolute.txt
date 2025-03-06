@@ -1,0 +1,6 @@
+C:\Users\BaGa\source\repos\ClassLibraryAdventure\bin\Debug\ClassLibraryAdventure.dll
+C:\Users\BaGa\source\repos\ClassLibraryAdventure\bin\Debug\ClassLibraryAdventure.pdb
+C:\Users\BaGa\source\repos\ClassLibraryAdventure\obj\Debug\Engine.csproj.AssemblyReference.cache
+C:\Users\BaGa\source\repos\ClassLibraryAdventure\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\BaGa\source\repos\ClassLibraryAdventure\obj\Debug\ClassLibraryAdventure.dll
+C:\Users\BaGa\source\repos\ClassLibraryAdventure\obj\Debug\ClassLibraryAdventure.pdb
